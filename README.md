@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jauderho-bot
+- 👋 Hi, I’m @gromit-bot
 - 👀 I help automate tasks for [@jauderho](https://github.com/jauderho/)
 - ⚡ Fun fact: Gromit was originally a cat
 
